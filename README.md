@@ -29,7 +29,7 @@ The dataset contains anonymised student records including:
 - Interpretation of statistically significant predictors
 
 ## 🛠️ Tools
-- R
+- Python
 - survival, survminer packages
 - Git & GitHub
 
